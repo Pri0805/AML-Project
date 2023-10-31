@@ -23,10 +23,10 @@ Steps to complete before first milestone:
 
 
 **TO DO:**
-1. Sign up for GitHub student  
-2. Research LDA + LSA
-3. Look into github for webscraping code
-4. Researching pushing Jupyter notebooks onto Github
+> 1. Sign up for GitHub student  
+> 2. Research LDA + LSA
+> 3. Look into github for webscraping code
+> 4. Researching pushing Jupyter notebooks onto Github
 
 
 **Resources:**
